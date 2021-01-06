@@ -11,7 +11,7 @@
 <img src ="https://user-images.githubusercontent.com/56497549/103688315-a9202e00-4fb7-11eb-8c1f-60775759bb81.gif" width="400" height="500">
 
 <h3>Experiment_5 -<h3> 
-<img src ="https://user-images.githubusercontent.com/56497549/103689460-5cd5ed80-4fb9-11eb-8b12-950ff7faa3fa.PNG" width = "400" height ="500">
+<img src ="https://user-images.githubusercontent.com/56497549/103689460-5cd5ed80-4fb9-11eb-8b12-950ff7faa3fa.PNG">
 
  <h3>Experiment_6 -<h3> 
 <img src = "https://user-images.githubusercontent.com/56497549/103688520-ee446000-4fb7-11eb-837b-cac917009405.PNG" width = "400" height ="500">
