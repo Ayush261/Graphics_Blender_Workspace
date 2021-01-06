@@ -1,13 +1,13 @@
 # Graphics_Blender_Workspace
 <h2> The repository holds innumerable Designs using Blender and Gimp. The Designs reflects on its own.The scrrenshots of the work is arranged sequentially.</h2>
 
-<h3>Experiment_2</h3> -
-![Experiment_2](https://user-images.githubusercontent.com/56497549/103688217-7fff9d80-4fb7-11eb-96a5-18e0eb07f431.PNG)" 
+<h3>Experiment_2 -</h3> -
+<img src="https://user-images.githubusercontent.com/56497549/103688217-7fff9d80-4fb7-11eb-96a5-18e0eb07f431.PNG" width="400" height="500">
 
-<h3>Experiment_3</h3> - 
-![Experiment_3](https://user-images.githubusercontent.com/56497549/103688270-960d5e00-4fb7-11eb-84b2-38ea86996a42.PNG)
+<h3>Experiment_3 -</h3> - 
+<img src ="https://user-images.githubusercontent.com/56497549/103688270-960d5e00-4fb7-11eb-84b2-38ea86996a42.PNG" width="400" height="500">
 
-**-> Experiment_4 - 
+<h3> Experiment_4 -</h3> 
 ![Experiment_4](https://user-images.githubusercontent.com/56497549/103688315-a9202e00-4fb7-11eb-8c1f-60775759bb81.gif)
 
 **-> Experiment_5 - 
