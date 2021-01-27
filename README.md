@@ -9,30 +9,26 @@
 <br>
 <img align='left' src="https://user-images.githubusercontent.com/56497549/105974351-d1311780-60b3-11eb-8f5d-3b8711674a7d.PNG" width="300" height="400">
 <img align='right' src="https://user-images.githubusercontent.com/56497549/105974380-d55d3500-60b3-11eb-9bae-c67b7836bdbb.PNG" width="300" height="400">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h3>Experiment_2 -</h3>
 <img src="https://user-images.githubusercontent.com/56497549/105948737-80102c00-6091-11eb-96af-04c529b5ad73.PNG" width="400" height="500">
