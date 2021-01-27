@@ -1,9 +1,14 @@
 # Graphics_Blender_Workspace
 <h2> The repository holds innumerable Designs using Blender and Gimp. The Designs reflects on its own.The snapshots of the work is arranged sequentially.</h2>
 
+<h3>Experiment_1 -</h3>
+<h3> Title - Procedure for the  Download and Installation of the Blender and Gimp.</h3>
+<a href="https://www.blender.org/download/">Download Pathway For Blender.</a><br>
+<a href="https://www.gimp.org/downloads/">Download Pathway For Gimp.</a>
+
+
 <h3>Experiment_2 -</h3>
-<h3>Title - Creating a single Activity with a Text Message.</h3>
-<img src="https://user-images.githubusercontent.com/56497549/105946750-e2672d80-608d-11eb-84fa-79e7bca0e0f4.PNG" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/56497549/105948737-80102c00-6091-11eb-96af-04c529b5ad73.PNG" width="400" height="500">
 
 <h3>Experiment_3 -</h3> - 
 <img src ="https://user-images.githubusercontent.com/56497549/103688270-960d5e00-4fb7-11eb-84b2-38ea86996a42.PNG" width="400" height="500">
