@@ -1,8 +1,9 @@
 # Graphics_Blender_Workspace
 <h2> The repository holds innumerable Designs using Blender and Gimp. The Designs reflects on its own.The snapshots of the work is arranged sequentially.</h2>
 
-<h3>Experiment_2 -</h3> -
-<img src="https://user-images.githubusercontent.com/56497549/103688217-7fff9d80-4fb7-11eb-96a5-18e0eb07f431.PNG" width="400" height="500">
+<h3>Experiment_2 -</h3>
+<h3>Title - Creating a single Activity with a Text Message.</h3>
+<img src="https://user-images.githubusercontent.com/56497549/105946750-e2672d80-608d-11eb-84fa-79e7bca0e0f4.PNG" width="400" height="500">
 
 <h3>Experiment_3 -</h3> - 
 <img src ="https://user-images.githubusercontent.com/56497549/103688270-960d5e00-4fb7-11eb-84b2-38ea86996a42.PNG" width="400" height="500">
