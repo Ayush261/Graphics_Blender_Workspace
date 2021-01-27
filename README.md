@@ -6,8 +6,11 @@
 <a href="https://www.blender.org/download/">Download Pathway For Blender.</a><br>
 <a href="https://www.gimp.org/downloads/">Download Pathway For Gimp.</a>
 <br>
-<img align='left' src="https://user-images.githubusercontent.com/56497549/105974351-d1311780-60b3-11eb-8f5d-3b8711674a7d.PNG" width="400" height="500">
+<br>
+
 <img align='right' src="https://user-images.githubusercontent.com/56497549/105974380-d55d3500-60b3-11eb-9bae-c67b7836bdbb.PNG" width="400" height="500">
+<img align='left' src="https://user-images.githubusercontent.com/56497549/105974351-d1311780-60b3-11eb-8f5d-3b8711674a7d.PNG" width="400" height="500">
+
 
 <br>
 <br>
