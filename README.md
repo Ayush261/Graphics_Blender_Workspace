@@ -1,11 +1,36 @@
 # Graphics_Blender_Workspace
 <h2> The repository holds innumerable Designs using Blender and Gimp. The Designs reflects on its own.The snapshots of the work is arranged sequentially.</h2>
-
+<br>
 <h3>Experiment_1 -</h3>
 <h3> Title - Procedure for the  Download and Installation of the Blender and Gimp.</h3>
 <a href="https://www.blender.org/download/">Download Pathway For Blender.</a><br>
 <a href="https://www.gimp.org/downloads/">Download Pathway For Gimp.</a>
+<br>
+<img align='left' src="https://user-images.githubusercontent.com/56497549/105974351-d1311780-60b3-11eb-8f5d-3b8711674a7d.PNG" width="400" height="500">
+<img align='right' src="https://user-images.githubusercontent.com/56497549/105974380-d55d3500-60b3-11eb-9bae-c67b7836bdbb.PNG" width="400" height="500">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3>Experiment_2 -</h3>
 <img src="https://user-images.githubusercontent.com/56497549/105948737-80102c00-6091-11eb-96af-04c529b5ad73.PNG" width="400" height="500">
